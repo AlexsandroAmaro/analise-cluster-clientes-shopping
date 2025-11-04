@@ -26,7 +26,8 @@ O projeto seguiu uma metodologia clara de análise de dados:
 
 A análise revelou 5 grupos de clientes distintos e bem definidos, visualizados claramente na relação entre Renda e Poder de Compra:
 
-<img width="847" height="741" alt="image" src="https://github.com/user-attachments/assets/f1929e44-3603-4079-a182-b4990aea2e4d" />
+<img width="808" height="741" alt="image" src="https://github.com/user-attachments/assets/71609fa5-0650-479c-a6bb-27cc73ad4ecb" />
+
 
 
 ### Interpretação dos Clusters:
